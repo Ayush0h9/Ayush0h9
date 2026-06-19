@@ -3,8 +3,8 @@
 
 Email Me 👉 as1531677@gmail.com
 
-- 🔭 I’m currently working on:|| Mini Project ||
-- 🌱 I’m currently learning:|| DSA ||
+- 🔭 My first project || LOADWHEEL ||
+- 🌱 I’m currently learning:|| DSA || BACKEND
 - ⚡ Fun fact:** I Love Tech and Tech Love Me.
 
 
